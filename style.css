@@ -35,8 +35,9 @@ header {
 }
 .menu ul li a:hover {
     color: #ff014f;
+    transition: 0.5s;
 }
-button {
+.btn {
     padding: 10px 20px;
     background-color: #ff014f;
     color: #fff;
